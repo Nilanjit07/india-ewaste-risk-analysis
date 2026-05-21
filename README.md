@@ -31,12 +31,6 @@ Using official parliamentary data from Rajya Sabha sessions and the UN Global E-
 ```
 india-ewaste-risk-analysis/
 │
-├── data/
-│   ├── India_Ewaste_Dataset_Official.xlsx   ← Compiled multi-source dataset
-│   ├── RS_Session_263_AU_670.csv            ← State-wise collection (Official)
-│   ├── RS_Session_265_AU_1177.csv           ← National generation & recycled
-│   └── RS_Session_266_AU_2384.csv           ← National generation 2019-24
-│
 ├── charts/
 │   ├── chart1_generation_trend.png
 │   ├── chart2_generation_vs_recycling.png
@@ -48,7 +42,7 @@ india-ewaste-risk-analysis/
 │   ├── chart8_recycling_trajectory.png
 │   ├── chart9_risk_scorecard_heatmap.png
 │   └── chart10_risk_summary.png
-│
+│── India_Ewaste_Dataset_Official.xlsx   ← Compiled multi-source dataset
 ├── India_Ewaste_Risk_Analysis.ipynb         ← Main Colab Notebook
 └── README.md
 ```
